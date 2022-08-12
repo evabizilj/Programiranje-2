@@ -1,2 +1,2 @@
-## Programiranje 2 (C)
+## Programiranje 2
 1. letnik FRI UNI
